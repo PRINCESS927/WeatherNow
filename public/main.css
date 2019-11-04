@@ -22,5 +22,19 @@ body {
     outline: none;
 }
 .ghost-input:focus {
-    border-bottom-width: 1px;;
+    border-bottom: 1px solid #ddd;
+
+}
+
+.ghost-botton{
+    border: 2px solid #ddd;
+    transition: all .5s ease-in-out;
+}
+
+.ghost-botton:hover{
+    border: 2px solid #515151;
+}
+
+p {
+    color: #e64419;
 }
