@@ -1,0 +1,19 @@
+{
+  "name": "weathernow",
+  "version": "1.0.0",
+  "description": "web app that gives the weather for citys",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRINCESS927/WeatherNow.git"
+  },
+  "author": "Samuel James Ray Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRINCESS927/WeatherNow/issues"
+  },
+  "homepage": "https://github.com/PRINCESS927/WeatherNow#readme"
+}
