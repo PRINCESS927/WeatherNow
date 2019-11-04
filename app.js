@@ -1,8 +1,16 @@
 const express = require('express')
 const app = express()
- 
+
+//setting veiw engine
+app.set("veiw engine", "ejs")
+
+/*
+     ROUTES
+*/
+
+ //GET /S
 app.get('/', function (req, res) {
-  res.send('Hello MAMA')
+  res.render("home.ejs");
 })
  
 app.listen(3000, function(){
