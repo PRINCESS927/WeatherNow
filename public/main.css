@@ -1,3 +1,10 @@
-body{
-    background-color: red
+body {
+    width: 800px;
+    margin: 0 auto;
+    font-family: "open Sans", sans-serif;
+};
+.container{
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
 }
