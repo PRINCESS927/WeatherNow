@@ -2,9 +2,22 @@ body {
     width: 800px;
     margin: 0 auto;
     font-family: "open Sans", sans-serif;
-};
+}
+
 .container{
     width: 600px;
     margin: 0 auto;
     padding: 30px;
+}
+
+.ghost-input,p {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 30px 0;
+    font-family: "open sans", verdana;
+    font-size: 25px;
+    font-weight: 300;
+    color: hotpink;
+    border: 0;
+    outline: none;
 }
